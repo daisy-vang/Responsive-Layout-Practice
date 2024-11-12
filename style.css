@@ -53,6 +53,7 @@ body {
     position: absolute;
     top: 45%;
     bottom: 55%;
+    transform: translate(50%);
 }
 
 .centered-bottom-text {
