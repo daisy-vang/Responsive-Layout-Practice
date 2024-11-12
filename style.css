@@ -51,9 +51,8 @@ body {
 .centered-text{
     color: white;
     position: absolute;
-    top: 45%;
-    bottom: 55%;
-    transform: translate(50%, 50%);
+    justify-content: center;
+    align-content: center;
 }
 
 .centered-bottom-text {
