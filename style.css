@@ -16,6 +16,7 @@ body {
 }
 
 .navbar ul {
+    display: flex;
     justify-content: center;
     background-color: #3d4352;
     border-style: none;
@@ -27,6 +28,7 @@ body {
 }
 
 .navbar a {
+    display: flex;
     color: white;
     justify-content: center;
     align-content: center;
