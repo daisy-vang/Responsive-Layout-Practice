@@ -54,3 +54,10 @@ body {
     top: 45%;
     bottom: 55%;
 }
+
+.centered-bottom-text {
+    color: white;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+}
