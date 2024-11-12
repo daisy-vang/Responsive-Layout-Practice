@@ -50,8 +50,7 @@ body {
 
 .centered-text{
     color: white;
-    position: absolute;
-    top: 50%;
-    bottom: 50%;
-    transform: translate(50%);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
