@@ -59,6 +59,6 @@ body {
 .centered-bottom-text {
     color: white;
     position: absolute;
-    top: 50%;
-    bottom: 50%;
+    top: 45%;
+    bottom: 55%;
 }
