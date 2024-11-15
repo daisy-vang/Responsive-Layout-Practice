@@ -118,6 +118,6 @@ body {
 
 .card-container {
     display: flex;
-    flex-direction: column;
-    padding: 10%;
+    flex-direction: row;
+    padding: 5%;
 }
