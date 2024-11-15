@@ -119,6 +119,7 @@ body {
 .card-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-content: space-around;
     min-width: 100%;
 }
