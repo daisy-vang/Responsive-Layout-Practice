@@ -134,6 +134,10 @@ body {
     transition: 0.3s;
 }
 
+.card-5 {
+    margin-right: 10%;
+}
+
 .card-4:hover, .card-5:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
