@@ -129,7 +129,7 @@ body {
 }
 
 .card-4, .card-5 {
-    width: 19%;
+    width: 25%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0,0.2);
     transition: 0.3s;
 }
@@ -141,6 +141,5 @@ body {
 .card-container-2 {
     display: flex;
     flex-direction: row;
-    margin: 10%;
     min-width: 100%;
 }
