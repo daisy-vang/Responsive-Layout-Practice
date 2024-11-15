@@ -110,7 +110,7 @@ body {
     width: 19%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0,0.2);
     transition: 0.3s;
-    background-color: grey;
+    background-color: lightgray;
 }
 
 .sec-img.jpg, .third-img.jpg, .four-img.jpg {
@@ -133,7 +133,7 @@ body {
     width: 25%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0,0.2);
     transition: 0.3s;
-    background-color: grey;
+    background-color: lightgray;
 }
 
 .card-4:hover, .card-5:hover {
